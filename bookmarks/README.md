@@ -1,6 +1,6 @@
 # Bookmarks
 
-> Last synced: 2026-07-12T13:17:16.574Z
+> Last synced: 2026-07-12T13:17:30.727Z
 
 > Import: Download `bookmarks.html` and import it in your browser (Chrome: Bookmarks → Import; Firefox: Import and Backup → Import Bookmarks from file).
 
@@ -85,8 +85,6 @@
 - [InfluxDB](https://influxdb.home.calvinpiche.com/signin)
 - [Nginx Proxy Manager](http://npm.home.calvinpiche.com:81/)
 - [Plex](http://plex.home.calvinpiche.com:32400/web/index.html)
-- [Portainer | Plex](https://portainer.home.calvinpiche.com/)
-- [Portainer | PVE01](https://portainer-pve01.home.calvinpiche.com/#!/auth)
 - [PRTG](https://monitor.home.calvinpiche.com/probenode.htm?id=1&tabid=1)
 - [PRTG - New UI](https://prtg.home.calvinpiche.com/monitoring/group/0/devices)
 - [qBittorrent](https://qbitorrent.home.calvinpiche.com/#)
