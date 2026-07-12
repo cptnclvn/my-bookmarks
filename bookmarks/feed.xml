@@ -3,7 +3,7 @@
   <channel>
     <title>Bookmarks</title>
     <description>Bookmarks synced by GitSyncMarks</description>
-    <lastBuildDate>Sun, 12 Jul 2026 12:08:56 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jul 2026 13:17:16 GMT</lastBuildDate>
     <generator>GitSyncMarks</generator>
     <item>
       <title>Radar</title>
@@ -323,6 +323,11 @@
     <item>
       <title>Wealthfolio</title>
       <link>https://wealth.calvinpiche.com/</link>
+      <category>Bookmarks Bar / Home</category>
+    </item>
+    <item>
+      <title>TN01-Code</title>
+      <link>https://tn02-code.home.calvinpiche.com/?folder=/apps</link>
       <category>Bookmarks Bar / Home</category>
     </item>
     <item>
