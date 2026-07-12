@@ -3,7 +3,7 @@
   <channel>
     <title>Bookmarks</title>
     <description>Bookmarks synced by GitSyncMarks</description>
-    <lastBuildDate>Sun, 12 Jul 2026 13:17:30 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jul 2026 13:17:43 GMT</lastBuildDate>
     <generator>GitSyncMarks</generator>
     <item>
       <title>Radar</title>
@@ -303,11 +303,6 @@
     <item>
       <title>Unifi</title>
       <link>https://unifi.home.calvinpiche.com/</link>
-      <category>Bookmarks Bar / Home</category>
-    </item>
-    <item>
-      <title>Nextcloud - Test</title>
-      <link>https://cloudtest.calvinpiche.com/apps/files/files</link>
       <category>Bookmarks Bar / Home</category>
     </item>
     <item>

@@ -1,6 +1,6 @@
 # Bookmarks
 
-> Last synced: 2026-07-12T13:17:30.727Z
+> Last synced: 2026-07-12T13:17:43.774Z
 
 > Import: Download `bookmarks.html` and import it in your browser (Chrome: Bookmarks → Import; Firefox: Import and Backup → Import Bookmarks from file).
 
@@ -94,7 +94,6 @@
 - [Teslamate](http://tesla.home.calvinpiche.com:4000/)
 - [TrueNAS01](https://truenas01.hw.calvinpiche.com/ui/sessions/signin)
 - [Unifi](https://unifi.home.calvinpiche.com/)
-- [Nextcloud - Test](https://cloudtest.calvinpiche.com/apps/files/files)
 - [Wealthfolio](https://wealth.calvinpiche.com/)
 - [TN01-Code](https://tn02-code.home.calvinpiche.com/?folder=/apps)
 
