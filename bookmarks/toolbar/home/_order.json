@@ -1,0 +1,26 @@
+[
+  "fw_bbw6.json",
+  "grafana-home_3ut1.json",
+  "grafana-v2_yc6x.json",
+  "home-assistant_m08f.json",
+  "influxdb_1l5e.json",
+  "nginx-proxy-manager_1f3d.json",
+  "plex_18mk.json",
+  "portainer-plex_133r.json",
+  "portainer-pve01_1nff.json",
+  "prtg_1p6n.json",
+  "prtg-new-ui_8f6w.json",
+  "qbittorrent_daqv.json",
+  "qnap_5opg.json",
+  "sabnzbd_18m1.json",
+  "tautulli_yh6g.json",
+  "teslamate_1275.json",
+  "truenas01_1ewo.json",
+  "unifi_jnxt.json",
+  {
+    "dir": "hardware",
+    "title": "Hardware"
+  },
+  "nextcloud-test_frna.json",
+  "wealthfolio_c9l0.json"
+]

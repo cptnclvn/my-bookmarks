@@ -1,0 +1,23 @@
+[
+  "monarch-accounts_197m.json",
+  "central-bank_1nhn.json",
+  {
+    "dir": "crypto",
+    "title": "Crypto"
+  },
+  {
+    "dir": "credit-cards",
+    "title": "Credit Cards"
+  },
+  {
+    "dir": "retirement",
+    "title": "Retirement"
+  },
+  {
+    "dir": "student-loans",
+    "title": "Student Loans"
+  },
+  "mortgage_1g54.json",
+  "health-equity-hsa_spad.json",
+  "umb-hsa_d0lu.json"
+]

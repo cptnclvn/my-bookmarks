@@ -1,0 +1,15 @@
+[
+  "coursera_1ee2.json",
+  "codecademy_zu3x.json",
+  "iphonedev-tv_mu1h.json",
+  "udacity_1ap1.json",
+  "udemy-online-courses-from-the-world-39-s_slxi.json",
+  {
+    "dir": "trainings",
+    "title": "Trainings"
+  },
+  {
+    "dir": "webdev",
+    "title": "WebDev"
+  }
+]

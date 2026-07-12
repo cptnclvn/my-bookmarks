@@ -1,0 +1,48 @@
+[
+  {
+    "dir": "banking",
+    "title": "Banking"
+  },
+  {
+    "dir": "cont-ed",
+    "title": "Cont. Ed."
+  },
+  {
+    "dir": "diy",
+    "title": "DIY"
+  },
+  {
+    "dir": "home",
+    "title": "Home"
+  },
+  {
+    "dir": "hl-info",
+    "title": "HL-Info"
+  },
+  {
+    "dir": "info",
+    "title": "Info"
+  },
+  {
+    "dir": "sync",
+    "title": "Sync"
+  },
+  {
+    "dir": "sites",
+    "title": "Sites"
+  },
+  {
+    "dir": "clouds",
+    "title": "Clouds"
+  },
+  "radar_blxm.json",
+  {
+    "dir": "news",
+    "title": "News"
+  },
+  {
+    "dir": "readings",
+    "title": "Readings"
+  },
+  "mark-meldrum-ph-d_1wnu.json"
+]
