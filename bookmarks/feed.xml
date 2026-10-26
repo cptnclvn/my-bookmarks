@@ -3,7 +3,7 @@
   <channel>
     <title>Bookmarks</title>
     <description>Bookmarks synced by GitSyncMarks</description>
-    <lastBuildDate>Mon, 26 Oct 2026 02:03:49 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 02:04:50 GMT</lastBuildDate>
     <generator>GitSyncMarks</generator>
     <item>
       <title>Radar</title>
@@ -231,28 +231,8 @@
       <category>Bookmarks Bar / Home</category>
     </item>
     <item>
-      <title>Grafana - Home</title>
-      <link>https://stats.home.calvinpiche.com/</link>
-      <category>Bookmarks Bar / Home</category>
-    </item>
-    <item>
-      <title>Grafana-v2</title>
-      <link>https://statsv2.home.calvinpiche.com/?orgId=1&amp;from=now-6h&amp;to=now&amp;timezone=browser</link>
-      <category>Bookmarks Bar / Home</category>
-    </item>
-    <item>
       <title>Home Assistant</title>
       <link>https://assistant.home.calvinpiche.com/</link>
-      <category>Bookmarks Bar / Home</category>
-    </item>
-    <item>
-      <title>InfluxDB</title>
-      <link>https://influxdb.home.calvinpiche.com/signin</link>
-      <category>Bookmarks Bar / Home</category>
-    </item>
-    <item>
-      <title>Nginx Proxy Manager</title>
-      <link>http://npm.home.calvinpiche.com:81/</link>
       <category>Bookmarks Bar / Home</category>
     </item>
     <item>
@@ -318,7 +298,27 @@
     <item>
       <title>TN01-Code</title>
       <link>https://tn02-code.home.calvinpiche.com/?folder=/apps</link>
-      <category>Bookmarks Bar / Home</category>
+      <category>Bookmarks Bar / Home / Services</category>
+    </item>
+    <item>
+      <title>Grafana - Home</title>
+      <link>https://stats.home.calvinpiche.com/</link>
+      <category>Bookmarks Bar / Home / Services</category>
+    </item>
+    <item>
+      <title>Grafana-v2</title>
+      <link>https://statsv2.home.calvinpiche.com/?orgId=1&amp;from=now-6h&amp;to=now&amp;timezone=browser</link>
+      <category>Bookmarks Bar / Home / Services</category>
+    </item>
+    <item>
+      <title>InfluxDB</title>
+      <link>https://influxdb.home.calvinpiche.com/signin</link>
+      <category>Bookmarks Bar / Home / Services</category>
+    </item>
+    <item>
+      <title>Nginx Proxy Manager</title>
+      <link>http://npm.home.calvinpiche.com:81/</link>
+      <category>Bookmarks Bar / Home / Services</category>
     </item>
     <item>
       <title>CIMC-Docker Host</title>

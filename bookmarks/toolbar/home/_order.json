@@ -1,10 +1,10 @@
 [
+  {
+    "dir": "services",
+    "title": "Services"
+  },
   "fw_bbw6.json",
-  "grafana-home_3ut1.json",
-  "grafana-v2_yc6x.json",
   "home-assistant_m08f.json",
-  "influxdb_1l5e.json",
-  "nginx-proxy-manager_1f3d.json",
   "plex_18mk.json",
   "prtg_1p6n.json",
   "prtg-new-ui_8f6w.json",
@@ -20,6 +20,5 @@
     "dir": "hardware",
     "title": "Hardware"
   },
-  "wealthfolio_c9l0.json",
-  "tn01-code_op4c.json"
+  "wealthfolio_c9l0.json"
 ]
