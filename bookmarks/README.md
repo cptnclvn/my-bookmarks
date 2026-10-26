@@ -1,6 +1,6 @@
 # Bookmarks
 
-> Last synced: 2026-10-26T02:05:05.393Z
+> Last synced: 2026-10-26T02:08:56.177Z
 
 > Import: Download `bookmarks.html` and import it in your browser (Chrome: Bookmarks → Import; Firefox: Import and Backup → Import Bookmarks from file).
 
@@ -86,7 +86,7 @@
 - [QNAP](https://qnap.home.calvinpiche.com/cgi-bin/)
 - [Home · TeslaMate](https://tesla-app.home.calvinpiche.com/)
 - [Teslamate](https://tesla.home.calvinpiche.com/)
-- [TrueNAS01](https://truenas01.hw.calvinpiche.com/ui/sessions/signin)
+- [TrueNAS01](https://truenas01.hw.calvinpiche.com:8443/ui/signin)
 - [Unifi](https://unifi.home.calvinpiche.com/)
 - [Wealthfolio](https://wealth.calvinpiche.com/)
 

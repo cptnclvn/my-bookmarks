@@ -3,7 +3,7 @@
   <channel>
     <title>Bookmarks</title>
     <description>Bookmarks synced by GitSyncMarks</description>
-    <lastBuildDate>Mon, 26 Oct 2026 02:05:05 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 02:08:56 GMT</lastBuildDate>
     <generator>GitSyncMarks</generator>
     <item>
       <title>Radar</title>
@@ -267,7 +267,7 @@
     </item>
     <item>
       <title>TrueNAS01</title>
-      <link>https://truenas01.hw.calvinpiche.com/ui/sessions/signin</link>
+      <link>https://truenas01.hw.calvinpiche.com:8443/ui/signin</link>
       <category>Bookmarks Bar / Home</category>
     </item>
     <item>
