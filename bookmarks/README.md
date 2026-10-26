@@ -1,6 +1,6 @@
 # Bookmarks
 
-> Last synced: 2026-10-26T02:04:50.758Z
+> Last synced: 2026-10-26T02:05:05.393Z
 
 > Import: Download `bookmarks.html` and import it in your browser (Chrome: Bookmarks → Import; Firefox: Import and Backup → Import Bookmarks from file).
 
@@ -83,10 +83,7 @@
 - [Plex](http://plex.home.calvinpiche.com:32400/web/index.html)
 - [PRTG](https://monitor.home.calvinpiche.com/probenode.htm?id=1&tabid=1)
 - [PRTG - New UI](https://prtg.home.calvinpiche.com/monitoring/group/0/devices)
-- [qBittorrent](https://qbitorrent.home.calvinpiche.com/#)
 - [QNAP](https://qnap.home.calvinpiche.com/cgi-bin/)
-- [SABnzbd](https://sabnzbd.home.calvinpiche.com/)
-- [Tautulli](https://tautulli.home.calvinpiche.com/)
 - [Home · TeslaMate](https://tesla-app.home.calvinpiche.com/)
 - [Teslamate](https://tesla.home.calvinpiche.com/)
 - [TrueNAS01](https://truenas01.hw.calvinpiche.com/ui/sessions/signin)
@@ -100,6 +97,8 @@
 - [Grafana-v2](https://statsv2.home.calvinpiche.com/?orgId=1&from=now-6h&to=now&timezone=browser)
 - [InfluxDB](https://influxdb.home.calvinpiche.com/signin)
 - [Nginx Proxy Manager](http://npm.home.calvinpiche.com:81/)
+- [qBittorrent](https://qbitorrent.home.calvinpiche.com/#)
+- [SABnzbd](https://sabnzbd.home.calvinpiche.com/)
 #### Hardware
 
 - [CIMC-Docker Host](https://cimc-docker-host.home.calvinpiche.com/index.html)

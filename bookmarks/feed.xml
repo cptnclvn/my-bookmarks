@@ -3,7 +3,7 @@
   <channel>
     <title>Bookmarks</title>
     <description>Bookmarks synced by GitSyncMarks</description>
-    <lastBuildDate>Mon, 26 Oct 2026 02:04:50 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 02:05:05 GMT</lastBuildDate>
     <generator>GitSyncMarks</generator>
     <item>
       <title>Radar</title>
@@ -251,23 +251,8 @@
       <category>Bookmarks Bar / Home</category>
     </item>
     <item>
-      <title>qBittorrent</title>
-      <link>https://qbitorrent.home.calvinpiche.com/#</link>
-      <category>Bookmarks Bar / Home</category>
-    </item>
-    <item>
       <title>QNAP</title>
       <link>https://qnap.home.calvinpiche.com/cgi-bin/</link>
-      <category>Bookmarks Bar / Home</category>
-    </item>
-    <item>
-      <title>SABnzbd</title>
-      <link>https://sabnzbd.home.calvinpiche.com/</link>
-      <category>Bookmarks Bar / Home</category>
-    </item>
-    <item>
-      <title>Tautulli</title>
-      <link>https://tautulli.home.calvinpiche.com/</link>
       <category>Bookmarks Bar / Home</category>
     </item>
     <item>
@@ -318,6 +303,16 @@
     <item>
       <title>Nginx Proxy Manager</title>
       <link>http://npm.home.calvinpiche.com:81/</link>
+      <category>Bookmarks Bar / Home / Services</category>
+    </item>
+    <item>
+      <title>qBittorrent</title>
+      <link>https://qbitorrent.home.calvinpiche.com/#</link>
+      <category>Bookmarks Bar / Home / Services</category>
+    </item>
+    <item>
+      <title>SABnzbd</title>
+      <link>https://sabnzbd.home.calvinpiche.com/</link>
       <category>Bookmarks Bar / Home / Services</category>
     </item>
     <item>
