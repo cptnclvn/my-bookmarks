@@ -12,7 +12,8 @@
   "qnap_5opg.json",
   "sabnzbd_18m1.json",
   "tautulli_yh6g.json",
-  "teslamate_1275.json",
+  "home-teslamate_g6ve.json",
+  "teslamate_eqqi.json",
   "truenas01_1ewo.json",
   "unifi_jnxt.json",
   {
@@ -20,6 +21,5 @@
     "title": "Hardware"
   },
   "wealthfolio_c9l0.json",
-  "tn01-code_op4c.json",
-  "home-teslamate_g6ve.json"
+  "tn01-code_op4c.json"
 ]
