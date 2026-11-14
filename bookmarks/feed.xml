@@ -3,7 +3,7 @@
   <channel>
     <title>Bookmarks</title>
     <description>Bookmarks synced by GitSyncMarks</description>
-    <lastBuildDate>Mon, 26 Oct 2026 02:09:16 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 13:10:00 GMT</lastBuildDate>
     <generator>GitSyncMarks</generator>
     <item>
       <title>Radar</title>
@@ -283,6 +283,11 @@
     <item>
       <title>Wealthfolio</title>
       <link>https://wealth.calvinpiche.com/</link>
+      <category>Bookmarks Bar / Home</category>
+    </item>
+    <item>
+      <title>502 Bad Gateway</title>
+      <link>https://tn02-files.home.calvinpiche.com/</link>
       <category>Bookmarks Bar / Home</category>
     </item>
     <item>

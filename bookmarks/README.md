@@ -1,6 +1,6 @@
 # Bookmarks
 
-> Last synced: 2026-10-26T02:09:16.178Z
+> Last synced: 2026-11-14T13:10:00.646Z
 
 > Import: Download `bookmarks.html` and import it in your browser (Chrome: Bookmarks → Import; Firefox: Import and Backup → Import Bookmarks from file).
 
@@ -90,6 +90,7 @@
 - [TrueNAS02](https://truenas02.hw.calvinpiche.com:8443/ui/signin)
 - [Unifi](https://unifi.home.calvinpiche.com/)
 - [Wealthfolio](https://wealth.calvinpiche.com/)
+- [502 Bad Gateway](https://tn02-files.home.calvinpiche.com/)
 
 #### Services
 
