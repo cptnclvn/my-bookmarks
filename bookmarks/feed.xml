@@ -3,7 +3,7 @@
   <channel>
     <title>Bookmarks</title>
     <description>Bookmarks synced by GitSyncMarks</description>
-    <lastBuildDate>Sat, 14 Nov 2026 13:10:13 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 13:10:19 GMT</lastBuildDate>
     <generator>GitSyncMarks</generator>
     <item>
       <title>Radar</title>
@@ -288,6 +288,11 @@
     <item>
       <title>TN02 - Files</title>
       <link>https://tn02-files.home.calvinpiche.com/</link>
+      <category>Bookmarks Bar / Home</category>
+    </item>
+    <item>
+      <title>TN01 - Files</title>
+      <link>https://tn01-files.home.calvinpiche.com/login?redirect=/files/</link>
       <category>Bookmarks Bar / Home</category>
     </item>
     <item>
